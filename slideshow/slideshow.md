@@ -4,7 +4,7 @@ theme: gaia
 _class: lead
 style: |
   section {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Segoe UI', monospace;
   }
   code {
    font-family: 'Roboto Mono', monospace;
@@ -25,13 +25,17 @@ style: |
 
 # header: Azure AI
 # footer: https://github.com/petrkucerak/AzureAI-Workshop
-paginate: true
+paginate: false
 backgroundColor: "#FFF"
 size: 16:9
 
 ---
 
-# Azure AI
+# Artificial Intelligence​
+Co to je a kde se s ní setkáme​?
+
+<!-- Představení se -->
+<!-- Když se řekne AI, co si představíte? -->
 
 ---
 
@@ -53,23 +57,16 @@ size: 16:9
 
 
 ---
+<!-- 
 
+paginate: true
+
+ -->
 # Obsah
 
-- moderní trendy v AI
+- Moderní trendy v AI
 - Azure a AI služby
-- dema
-  - Custom a Computer Vision
-  - Speech Services
-  - Machine Learning Studio
-
----
-
-# Než začneme
-
-- repozitář projetku [github.com/petrkucerak/AzureAI-Workshop](https://github.com/petrkucerak/AzureAI-Workshop)
-- [Jak aktivovat Azure for Students](https://studuj.digital/2020/01/19/aktivace-azure-for-students/)
-- pravidla
+- Jak pracovat na projektu
 
 ---
 
@@ -99,6 +96,7 @@ OBLASTI
 
 - https://chat.openai.com/chat - jazykový model
 - https://labs.openai.com/ - DALLE 2
+- https://designer.microsoft.com/ - Microsft Designer
 
 ## Development
 
@@ -113,6 +111,8 @@ ChatGPT:
 
 DALLE:
 - a ship in the middle of a storm
+
+Designer
 
 -->
 ---
@@ -173,27 +173,6 @@ IoT, 5G, AI
 
 --- 
 
-# Otázky a výzvy
-
-- o čem nevíme, válečný rozvoj
-- problematika výpočetní síly, *edge computing*
-- datasety pro učení
-- legislativa
-- transformace pracovních pozic
-
-<!-- 
-
-OTÁZKY A VÝZVY, KTERÉ STOJÍ PŘED NÁMI
-
-- O čem nevíme? Válka přispívá rozvoji, co přinese konflikt na ukrajině?
-- Problematika výpočetního výkonu - edge computing
-- Problematika data pro učení
-- Problematika legislativy - nová osoba v EU
-- Transformace pracovních pozic 
- 
--->
-
----
 <!-- Dalle inputMicrosoft Azure 3D ilustration -->
 
 ![bg cover](assets/10.png)
@@ -386,34 +365,25 @@ Azure Machine Learning
 
 ---
 
-# DEMA
+# Otázky a výzvy
 
-- Visions
-  - Computer vision
-  - Custom vision
-- MLS
-- Text2Speech
+- **etika v účení a piužívání AI**
+- problematika výpočetní síly, *edge computing*
+- **datasety pro učení**
+- **legislativa a autorská práva**
+- transformace pracovních pozic
 
-![bg fit right:40%](assets/qrcode.png)
+<!-- 
 
-<!-- Jaka temata demicek nas cekaji? -->
+OTÁZKY A VÝZVY, KTERÉ STOJÍ PŘED NÁMI
 
----
-
-![bg cover](assets/13.png)
-
-<!-- Computer Vision -->
-
----
-![bg cover](assets/14.png)
-
-<!-- Custom Vision -->
-
----
-
-![bg cover](assets/15.png)
-
-<!-- Text To Speech -->
+- O čem nevíme? Válka přispívá rozvoji, co přinese konflikt na ukrajině?
+- Problematika výpočetního výkonu - edge computing
+- Problematika data pro učení
+- Problematika legislativy - nová osoba v EU
+- Transformace pracovních pozic 
+ 
+-->
 
 ---
 
@@ -423,6 +393,7 @@ Azure Machine Learning
 
 ---
 
+
 # Problémy
 
 - vytvoř ze svého článku na [studuj.digital](https://studuj.digital/) podcast pomocí Azure AI služeb
@@ -430,6 +401,27 @@ Azure Machine Learning
 - poznej náladu člověk z jeho výrazu
 - predikuj výrobu z dat na [Kaggle](https://www.kaggle.com/)
 - vycvič model na poznávání typů aut
+
+---
+
+# Navrhovaný postup
+
+1. Brainstorming​
+2. Pro a proti ke každému nápadu​
+3. Vyberte si ten nejlepší​
+4. Udělejte si SWOT analýzu​
+5. Připravte koncept​
+
+---
+
+# Praktická část
+
+- Zadání: **Vyřešte pomocí AI problém ve vzdělávacím procesu**
+- Kritéria hodnocení:​
+  - Relevantnost​
+  - Efektivita​
+  - Obstání výzev AI​
+  - *Způsob prezetování*​
 
 ---
 
