@@ -33,8 +33,8 @@ style: |
   }
 
 
-header: "![Microsoft Azure](assets/azure.png)"
-footer: "![Studentske Trenerske Centrum](assets/blue.png)"
+# header: "![Microsoft Azure](assets/azure.png)"
+# footer: "![Studentske Trenerske Centrum](assets/blue.png)"
 paginate: true
 backgroundColor: "#FFF"
 size: 16:9
@@ -381,7 +381,7 @@ Azure Machine Learning
 
 # Otázky a výzvy
 
-- **etika v účení a piužívání AI**
+- **etika v účení a používání AI**
 - problematika výpočetní síly, *edge computing*
 - **datasety pro učení**
 - **legislativa a autorská práva**
