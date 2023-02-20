@@ -25,16 +25,8 @@ style: |
   strong {
     color: #0078d7;
   }
-  footer {
-    top: 610px;
-  }
-  header {
-    top: 15px;
-  }
 
 
-# header: "![Microsoft Azure](assets/azure.png)"
-# footer: "![Studentske Trenerske Centrum](assets/blue.png)"
 paginate: true
 backgroundColor: "#FFF"
 size: 16:9
@@ -74,6 +66,7 @@ paginate: false
 ---
 <!-- 
 paginate: true
+footer: https://github.com/petrkucerak/AI-Workshop
 
  -->
 # Obsah
@@ -83,6 +76,8 @@ paginate: true
 - Jak pracovat na projektu
 
 ---
+
+<!-- footer: "" -->
 
 # Oblasti
 
