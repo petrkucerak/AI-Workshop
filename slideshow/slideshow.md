@@ -25,11 +25,17 @@ style: |
   strong {
     color: #0078d7;
   }
+  footer {
+    top: 610px;
+  }
+  header {
+    top: 15px;
+  }
 
 
-# header: Azure AI
-# footer: https://github.com/petrkucerak/AzureAI-Workshop
-paginate: false
+header: "![Microsoft Azure](assets/azure.png)"
+footer: "![Studentske Trenerske Centrum](assets/blue.png)"
+paginate: true
 backgroundColor: "#FFF"
 size: 16:9
 
@@ -42,6 +48,11 @@ size: 16:9
 <!-- Když se řekne AI, co si představíte? -->
 
 ---
+<!-- 
+header: ""
+footer: ""
+paginate: false
+ -->
 
 <!-- DALEE intput: Epic Ilustration of Artificial Intelligence -->
 
@@ -62,7 +73,6 @@ size: 16:9
 
 ---
 <!-- 
-
 paginate: true
 
  -->
