@@ -5,6 +5,7 @@ _class: lead
 style: |
   section {
     font-family: 'Segoe UI', monospace;
+    color: #333;
   }
   code {
    font-family: 'Roboto Mono', monospace;
@@ -21,6 +22,9 @@ style: |
   ul {
     margin: 0;
   }
+  strong {
+    color: #0078d7;
+  }
 
 
 # header: Azure AI
@@ -32,7 +36,7 @@ size: 16:9
 ---
 
 # Artificial Intelligence​
-Co to je a kde se s ní setkáme​?
+**Co to je a kde se s ní setkáme​?**
 
 <!-- Představení se -->
 <!-- Když se řekne AI, co si představíte? -->
